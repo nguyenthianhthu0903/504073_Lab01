@@ -1,0 +1,10 @@
+C:\504073-Lab01\Excercise01\Excercise01\bin\Debug\Excercise01.exe.config
+C:\504073-Lab01\Excercise01\Excercise01\bin\Debug\Excercise01.exe
+C:\504073-Lab01\Excercise01\Excercise01\bin\Debug\Excercise01.pdb
+C:\504073-Lab01\Excercise01\Excercise01\obj\Debug\Excercise01.csprojResolveAssemblyReference.cache
+C:\504073-Lab01\Excercise01\Excercise01\obj\Debug\Excercise01.Properties.Resources.resources
+C:\504073-Lab01\Excercise01\Excercise01\obj\Debug\Excercise01.csproj.GenerateResource.Cache
+C:\504073-Lab01\Excercise01\Excercise01\obj\Debug\Excercise01.exe
+C:\504073-Lab01\Excercise01\Excercise01\obj\Debug\Excercise01.pdb
+C:\504073-Lab01\Excercise01\Excercise01\obj\Debug\Excercise01.LoginForm.resources
+C:\504073-Lab01\Excercise01\Excercise01\obj\Debug\Excercise01.HomeForm.resources
